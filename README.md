@@ -1,2 +1,7 @@
 # New-York-Data-Science-Project
-Filtering New York complaint types and find affected areas. Finding a correlation between them and predictive modelling
+
+Analysis of New York city:
+1. Complaint types
+2. Affected areas
+3. Correlation
+4. Predictive modelling
