@@ -1,4 +1,0 @@
-1. complaint types
-2. affected areas
-3. correlation
-4. predictive modelling
