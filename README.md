@@ -1,5 +1,4 @@
 # New-York-Data-Science-Project
-## Introduction
 
 The goal of this project is to use data science methodologies to define and formulate a real-world business problem. 
 
