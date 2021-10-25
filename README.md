@@ -10,6 +10,9 @@ The New York City Department of Housing Preservation and Development (HPD) needs
 
 ## Results
 
+1. The Heat/Hot Water is the one with the biggest amount of complaints. Therefore, the HPD should focus on fixing this complaint type first.
+
+![image](https://github.com/luis-a-miranda/New-York-City-Data-Science-Project/blob/main/complaints_per_type.png)
 
 
 
