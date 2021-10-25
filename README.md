@@ -3,7 +3,7 @@
 
 The goal of this project is to use data science methodologies to define and formulate a real-world business problem. 
 
-The Department of Housing Preservation and Development of New York City needs to analyse data so that they can make data driven decision making and decide what problems to tackle first. The project is devided in 3 parts where:
+The New York City Department of Housing Preservation and Development (HPD) needs to analyse data so that they can make data-driven decision making and decide how to approach their problems. The project is devided in 3 parts where:
 
 1. Which type of complaint should the Department of Housing Preservation and Development of New York City focus on first?
 2. Should the Department of Housing Preservation and Development of New York City focus on any particular set of boroughs, ZIP codes, or street (where the complaints are severe)?
