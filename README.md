@@ -22,6 +22,22 @@ The New York City Department of Housing Preservation and Development (HPD) needs
 
 3. Lastly, the mean values of house feature per complaint type is calculated and after an analysis of variance (ANOVA) is performed.
 
+The top 5 and last 5 features are sorted by ascending F-test and can be seen in the following table:
+
+| House_Feature  | F-test     | p-value      |
+| ---------------| ---------- | ------------ |
+| NumFloors      | 351.770726 | 0.000000e+00 |
+| BldgDepth      | 278.811181 | 0.000000e+00 |
+| LotDepth       | 197.421067 | 0.000000e+00 |
+| BldgArea       | 182.465668 | 0.000000e+00 |
+| ResArea        | 172.946261 | 0.000000e+00 |
+| ...            | ...        | ...          |
+| OfficeArea     | 19.252312  | 1.215308e-52 |
+| CommFAR        | 18.771666  | 3.792675e-51 |
+| Lot            | 17.008696  | 1.105359e-45 |
+| YearBuilt      | 13.150901  | 7.707729e-34 |
+| NumBldgs       | 4.623433   | 5.831706e-09 |
+
 
 The F-test calculates the ratio of variation between groups mean, over the variation within each of the sample groups.
 - Large F implies strong correlation, usually F>1 is a decent value.
