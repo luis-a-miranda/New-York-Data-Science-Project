@@ -8,6 +8,8 @@ The New York City Department of Housing Preservation and Development (HPD) needs
 2. Should the HPD focus on any particular set of boroughs, ZIP codes, or street (where the complaints are severe)?
 3. Does the identified complaint types have an obvious relationship with any particular characteristic or characteristic of the houses?
 
+[311 NYC Dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0720EN-SkillsNetwork/labs/Module%201/data/311_Service_Requests_from_2010_to_Present_min.csv)
+
 ## Results
 
 1. The "Heat/Hot Water" is the one with the biggest amount of complaints. Therefore, the HPD should focus on fixing this complaint type first.
