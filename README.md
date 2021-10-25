@@ -39,15 +39,4 @@ The top 5 and last 5 features are sorted by ascending F-test and can be seen in 
 | NumBldgs       | 4.623433   | 5.831706e-09 |
 
 
-The F-test calculates the ratio of variation between groups mean, over the variation within each of the sample groups.
-- Large F implies strong correlation, usually F>1 is a decent value.
-
- The p-value shows whether the obtained result is statistically significant.
-- Small p implies strong confidence, usually p<0.05 is a decent value.
-
-
-
-
-
-
 Copyright (c) IBM Corporation 2020.
