@@ -24,6 +24,7 @@ The New York City Department of Housing Preservation and Development (HPD) needs
 
 The F-test calculates the ratio of variation between groups mean, over the variation within each of the sample groups.
 - Large F implies strong correlation, usually F>1 is a decent value.
+
  The p-value shows whether the obtained result is statistically significant.
 - Small p implies strong confidence, usually p<0.05 is a decent value.
 
