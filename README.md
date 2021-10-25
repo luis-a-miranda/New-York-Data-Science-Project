@@ -24,7 +24,7 @@ The New York City Department of Housing Preservation and Development (HPD) needs
 
 The top 5 and last 5 features are sorted by ascending F-test and can be seen in the following table:
 
-| House_Feature  | F-test     | p-value      |
+| House Feature  | F-test     | p-value      |
 | ---------------| ---------- | ------------ |
 | NumFloors      | 351.770726 | 0.000000e+00 |
 | BldgDepth      | 278.811181 | 0.000000e+00 |
