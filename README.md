@@ -14,7 +14,7 @@ The New York City Department of Housing Preservation and Development (HPD) needs
 
 <img src="complaints_per_type.png" width="600">
 
-2. Now, HPD can have 3 approaches and decide to fix problems by borough, zip code or street. The listed of areas are the following:
+2. Now, HPD can have 3 approaches and decide to fix problems by borough, zip code or street. The listed areas are the following:
  
 <td><img src="complaint_per_borough.png" width=600></td>
 <td><img src="complaint_per_15zip.png" width=600></td>
