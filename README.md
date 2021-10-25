@@ -14,6 +14,21 @@ The New York City Department of Housing Preservation and Development (HPD) needs
 
 <img src="complaints_per_type.png" width="600">
 
+2. The list of areas HPD should focusing first is the following:
+
+<table>
+  <tr>
+    <td>Complaints per borough</td>
+    <td>Top 15 complaints per zip code</td>
+    <td>Top 15 complaints per street</td>
+  </tr>
+  <tr>
+    <td><img src="complaint_per_borough.png" width=300></td>
+    <td><img src="complaint_per_15zip.png" width=300></td>
+    <td><img src="complaint_per_15streets.png" width=300></td>
+  </tr>
+ </table>
+
 
 
 
