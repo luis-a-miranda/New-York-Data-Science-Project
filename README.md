@@ -23,9 +23,9 @@ The New York City Department of Housing Preservation and Development (HPD) needs
     <td>Top 15 complaints per street</td>
   </tr>
   <tr>
-    <td><img src="complaint_per_borough.png" width=400></td>
-    <td><img src="complaint_per_15zip.png" width=400></td>
-    <td><img src="complaint_per_15streets.png" width=400></td>
+    <td><img src="complaint_per_borough.png" width=600></td>
+    <td><img src="complaint_per_15zip.png" width=600></td>
+    <td><img src="complaint_per_15streets.png" width=600></td>
   </tr>
  </table>
 
