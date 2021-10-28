@@ -1,4 +1,4 @@
-# New-York-Data-Science-Project
+# Data Science - New York Housing Complaint Project
 
 The goal of this project is to use data science methodologies to define and formulate a real-world business problem. 
 
