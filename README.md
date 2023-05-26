@@ -39,6 +39,3 @@ The top 5 and last 5 features are sorted by ascending F-test and can be seen in 
 | Lot            | 17.008696  | 1.105359e-45 |
 | YearBuilt      | 13.150901  | 7.707729e-34 |
 | NumBldgs       | 4.623433   | 5.831706e-09 |
-
-
-Copyright (c) IBM Corporation 2020.
