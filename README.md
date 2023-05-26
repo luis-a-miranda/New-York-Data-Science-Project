@@ -1,30 +1,34 @@
 # Data Science - New York Housing Complaint Project
 
-The goal of this project is to use data science methodologies to define and formulate a real-world business problem. 
+This project aims to analyze housing complaints data from the New York City Department of Housing Preservation and Development (HPD) to provide valuable insights for data-driven decision making and problem-solving related to New York City's housing.
 
-The New York City Department of Housing Preservation and Development (HPD) needs to analyse data so that they can make data-driven decision making and decide how to approach their problems. The project is devided in 3 parts where:
+## Key Features
 
-1. Which type of complaint should the HPD focus on first?
-2. Should the HPD focus on any particular set of boroughs, ZIP codes, or street (where the complaints are severe)?
-3. Does the identified complaint types have an obvious relationship with any particular characteristic or characteristic of the houses?
+1. Complaint Type Prioritization: Identify the most common complaint type to determine priority for resolution.
+2. Geographic Analysis: Explore boroughs, ZIP codes, and streets to pinpoint areas with severe housing complaints.
+3. Relationship Between Complaint Types and Housing Characteristics: Investigate how housing features relate to different complaint types.
 
-Dataset: [311 NYC Dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0720EN-SkillsNetwork/labs/Module%201/data/311_Service_Requests_from_2010_to_Present_min.csv).
+Dataset: [311 NYC Dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0720EN-SkillsNetwork/labs/Module%201/data/311_Service_Requests_from_2010_to_Present_min.csv)
 
 ## Results
 
-1. The "Heat/Hot Water" is the one with the biggest amount of complaints. Therefore, the HPD should focus on fixing this complaint type first.
+The analysis reveals that the "Heat/Hot Water" complaint type has the highest number of occurrences. Consequently, it is recommended that the HPD prioritize resolving this complaint type to address the most common issue faced by residents.
 
-<img src="complaints_per_type.png" width="600">
+   ![Complaints per Type](complaints_per_type.png)
 
-2. Now, HPD can have 3 approaches and decide to fix problems by borough, zip code or street. The listed areas are the following:
- 
-<td><img src="complaint_per_borough.png" width=600></td>
-<td><img src="complaint_per_15zip.png" width=600></td>
-<td><img src="complaint_per_15streets.png" width=600></td>
+To provide actionable insights, the analysis offers three approaches for the HPD to consider when addressing complaints based on geographical regions: boroughs, ZIP codes, and streets. The following visualizations highlight the areas with the highest complaint volumes:
 
-3. Lastly, the mean values of house feature per complaint type is calculated and after an analysis of variance (ANOVA) is performed.
+   - Complaints per Borough:
+     ![Complaints per Borough](complaint_per_borough.png)
 
-The top 5 and last 5 features are sorted by ascending F-test and can be seen in the following table:
+   - Complaints per Top 15 ZIP Codes:
+     ![Complaints per 15 ZIP Codes](complaint_per_15zip.png)
+
+   - Complaints per Top 15 Streets:
+     ![Complaints per 15 Streets](complaint_per_15streets.png)
+
+By calculating the mean values of house features per complaint type and performing ANOVA, we identify the top 5 and last 5 features based on their F-test values. These features indicate potential relationships with different complaint types, as shown in the following table:
+
 
 | House Feature  | F-test     | p-value      |
 | ---------------| ---------- | ------------ |
