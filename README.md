@@ -1,4 +1,4 @@
-# Data Science - New York Housing Complaint Project
+# New York Housing Complaint Analysis
 
 This project aims to analyze housing complaints data from the New York City Department of Housing Preservation and Development (HPD) to provide valuable insights for data-driven decision making and problem-solving related to New York City's housing.
 
