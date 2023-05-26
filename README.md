@@ -8,7 +8,7 @@ The New York City Department of Housing Preservation and Development (HPD) needs
 2. Should the HPD focus on any particular set of boroughs, ZIP codes, or street (where the complaints are severe)?
 3. Does the identified complaint types have an obvious relationship with any particular characteristic or characteristic of the houses?
 
-Dataset: [311 NYC Dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0720EN-SkillsNetwork/labs/Module%201/data/311_Service_Requests_from_2010_to_Present_min.csv) obtained while enrolled on [Professional Certificate in IBM Data Science](https://www.edx.org/professional-certificate/ibm-data-science?index=product&queryID=f71f23095d28d770b5032557f7806f50&position=1).
+Dataset: [311 NYC Dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0720EN-SkillsNetwork/labs/Module%201/data/311_Service_Requests_from_2010_to_Present_min.csv).
 
 ## Results
 
