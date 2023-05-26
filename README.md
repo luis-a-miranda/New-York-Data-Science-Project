@@ -18,14 +18,11 @@ The analysis reveals that the "Heat/Hot Water" complaint type has the highest nu
 
 To provide actionable insights, the analysis offers three approaches for the HPD to consider when addressing complaints based on geographical regions: boroughs, ZIP codes, and streets. The following visualizations highlight the areas with the highest complaint volumes:
 
-   - Complaints per Borough:
-     ![Complaints per Borough](complaint_per_borough.png)
+![Complaints per Borough](complaint_per_borough.png)
 
-   - Complaints per Top 15 ZIP Codes:
-     ![Complaints per 15 ZIP Codes](complaint_per_15zip.png)
+![Complaints per 15 ZIP Codes](complaint_per_15zip.png)
 
-   - Complaints per Top 15 Streets:
-     ![Complaints per 15 Streets](complaint_per_15streets.png)
+![Complaints per 15 Streets](complaint_per_15streets.png)
 
 By calculating the mean values of house features per complaint type and performing ANOVA, we identify the top 5 and last 5 features based on their F-test values. These features indicate potential relationships with different complaint types, as shown in the following table:
 
